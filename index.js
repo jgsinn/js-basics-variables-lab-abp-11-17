@@ -4,6 +4,6 @@ var companyCeo = 'Susan Smith'
 var mostProfitableNeighborhood = 'Chelsea'
 
 if (companyName != 'Scuber') {
-  new Error([message])
+  throw TypeError
 
 }
