@@ -2,5 +2,3 @@
 const companyName = 'Scuber'
 var companyCeo = 'Susan Smith'
 var mostProfitableNeighborhood = 'Chelsea'
-
-
