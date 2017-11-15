@@ -2,5 +2,6 @@
 var companyName = 'Scuber'
 
 if (companyName != 'Scuber') {
-  throw Error;
+  new Error([message])
+
 }
